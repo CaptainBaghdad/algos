@@ -1,0 +1,25 @@
+{
+  "name": "algos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CaptainBaghdad/algos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CaptainBaghdad/algos/issues"
+  },
+  "homepage": "https://github.com/CaptainBaghdad/algos#readme",
+  "devDependencies": {
+    "mocha": "^6.0.0"
+  }
+}
