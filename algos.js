@@ -1,3 +1,5 @@
+//un 'mocha test.js'
+
 String.prototype.camelCase = function(){
     this.toLowerCase();
     let ans = '';
